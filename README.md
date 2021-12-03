@@ -17,17 +17,11 @@ SageMaker 는 인공지능을 코딩하고 배포할 수 있는 환경이 구성
 
 ## 테스트에 사용된 코드 소개
 
-- [Logistic Regression](https://github.com/op2gs2/CloudComputing_Project/blob/main/Logistic%20Regression_Sample.ipynb): Logistic Regression 코드로, 
+- [Logistic Regression](https://github.com/op2gs2/CloudComputing_Project/blob/main/Logistic%20Regression_Sample.ipynb): Logistic Regression을 수행하는 머신러닝코드입니다. 여러 유형의 노트북 인스턴스의 실행시간을 측정하기 위해 쓰인 코드입니다.
 
-<b> TODO: 작성 필요 </b>
+- [Tensorflow SampleCode](https://github.com/op2gs2/CloudComputing_Project/blob/main/classification_Tensorflow_sample.ipynb): 이미지 분류를 수행하는 Tensorflow 샘플코드입니다. 노트북 인스턴스 환경에서 Tensorflow의 구동여부를 확인하기 위해 쓰인 코드입니다. [Tensorflow 공식홈페이지](https://www.tensorflow.org/tutorials/keras/classification?hl=ko)에서 가져왔습니다.
 
-- [Tensorflow SampleCode](https://github.com/op2gs2/CloudComputing_Project/blob/main/classification_Tensorflow_sample.ipynb):
-
-<b> TODO: 작성 필요 </b>
-
-- [Pytorch SampleCode](https://github.com/op2gs2/CloudComputing_Project/blob/main/optimization_tutorial_Pytorch_sample.ipynb): 
-
-<b> TODO: 작성 필요 </b>
+- [Pytorch SampleCode](https://github.com/op2gs2/CloudComputing_Project/blob/main/optimization_tutorial_Pytorch_sample.ipynb): 구한 모델을 최적화하는 Pytorch 샘플코드입니다. 노트북 인스턴스 환경에서 Pytorch의 구동여부를 확인하기 위해 쓰인 코드입니다. [Pytorch 공식홈페이지](https://tutorials.pytorch.kr/beginner/basics/optimization_tutorial.html)에서 가져왔습니다.
 
 - 마켓플레이스 알고리즘과 데이터셋
 <b> TODO: 작성 필요 </b>

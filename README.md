@@ -24,9 +24,8 @@ SageMaker 는 인공지능을 코딩하고 배포할 수 있는 환경이 구성
 - [Pytorch SampleCode](https://github.com/op2gs2/CloudComputing_Project/blob/main/optimization_tutorial_Pytorch_sample.ipynb): 구한 모델을 최적화하는 Pytorch 샘플코드입니다. 노트북 인스턴스 환경에서 Pytorch의 구동여부를 확인하기 위해 쓰인 코드입니다. [Pytorch 공식홈페이지](https://tutorials.pytorch.kr/beginner/basics/optimization_tutorial.html)에서 가져왔습니다.
 
 - 마켓플레이스 알고리즘과 데이터셋
-<b> TODO: 작성 필요 </b>
-  - [알고리즘](https://aws.amazon.com/marketplace/pp/prodview-vcfitb65ln2ro?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console):
-  - [데이터셋](https://www.kaggle.com/mlg-ulb/creditcardfraud): 
+  - [알고리즘](https://aws.amazon.com/marketplace/pp/prodview-vcfitb65ln2ro?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console): 사기 거래인 확률을 계산하는 Autoencorder 알고리즘입니다. 불균형이 심한 데이터셋에서도 사기 거래를 탐지할 수 있다고 합니다.
+  - [데이터셋](https://www.kaggle.com/mlg-ulb/creditcardfraud): 2013년 9월 유럽 내 카드 거래 내역을 기반으로 한 데이터셋입니다. 본 데이터셋은 전체 284,807건의 거래 중, 492건의 사기 거래 데이터를 가지고 있습니다. 이는 불균형데이터에 해당하는 데이터셋입니다.
 
 ## 테스트 결과 소개
 

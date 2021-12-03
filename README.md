@@ -13,40 +13,40 @@ SageMaker 는 인공지능을 코딩하고 배포할 수 있는 환경이 구성
 
 ## 프로젝트 소개 및 개발 내용 소개
 
-# TODO: 작성 필요
+<b> TODO: 작성 필요 </b>
 
 ## 테스트에 사용된 코드 소개
 
-### Logistic Regression ()
+- [Logistic Regression](https://github.com/op2gs2/CloudComputing_Project/blob/main/Logistic%20Regression_Sample.ipynb): Logistic Regression 코드로, 
 
-# TODO: 작성 필요
+<b> TODO: 작성 필요 </b>
 
-### Tensorflow SampleCode ()
+- [Tensorflow SampleCode](https://github.com/op2gs2/CloudComputing_Project/blob/main/classification_Tensorflow_sample.ipynb):
 
-# TODO: 작성 필요
+<b> TODO: 작성 필요 </b>
 
-### Pytorch SampleCode ()
+- [Pytorch SampleCode](https://github.com/op2gs2/CloudComputing_Project/blob/main/optimization_tutorial_Pytorch_sample.ipynb): 
 
-# TODO: 작성 필요
+<b> TODO: 작성 필요 </b>
 
-### 마켓플레이스 알고리즘과 데이터셋
-# TODO: 작성 필요
-- [알고리즘](https://aws.amazon.com/marketplace/pp/prodview-vcfitb65ln2ro?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console):
-- [데이터셋](https://www.kaggle.com/mlg-ulb/creditcardfraud): 
+- 마켓플레이스 알고리즘과 데이터셋
+<b> TODO: 작성 필요 </b>
+  - [알고리즘](https://aws.amazon.com/marketplace/pp/prodview-vcfitb65ln2ro?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console):
+  - [데이터셋](https://www.kaggle.com/mlg-ulb/creditcardfraud): 
 
 ## 테스트 결과 소개
 
 ### 다양한 인스턴스에서의 실행시간 비교
 
-# TODO: 작성 필요
+<b> TODO: 작성 필요 </b>
 
 ### 다양한 라이브러리 샘플코드를 실행
 
-# TODO: 작성 필요
+<b> TODO: 작성 필요 </b>
 
 ### 마켓플레이스 알고리즘을 이용한 모델 훈련
 
-# TODO: 작성 필요
+<b> TODO: 작성 필요 </b>
 
 ## 개발 결과물의 필요성 및 활용 방안
 

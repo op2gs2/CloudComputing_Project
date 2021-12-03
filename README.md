@@ -31,7 +31,7 @@ SageMaker 는 인공지능을 코딩하고 배포할 수 있는 환경이 구성
 
 ### 마켓플레이스 알고리즘과 데이터셋
 # TODO: 작성 필요
-- 알고리즘:
+- [알고리즘](https://aws.amazon.com/marketplace/pp/prodview-vcfitb65ln2ro?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console):
 - [데이터셋](https://www.kaggle.com/mlg-ulb/creditcardfraud): 
 
 ## 테스트 결과 소개

@@ -46,9 +46,13 @@ Amazon SageMaker는 가장 포괄적인 ML/DL 서비스입니다. 데이터처�
 ### 다양한 라이브러리 샘플코드를 실행
 
 - Tensorflow 실행 결과
+
 ![Tensorflow 실행 결과](https://github.com/op2gs2/CloudComputing_Project/blob/main/img/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC_%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%8B%A4%ED%97%98.jpg?raw=true)
+
 <br>
+
 - Pytorch 실행 결과
+
 ![Pytorch 실행 결과](https://github.com/op2gs2/CloudComputing_Project/blob/main/img/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%20%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC_%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%8B%A4%ED%97%98.jpg?raw=true)
 
 ### 마켓플레이스 알고리즘을 이용한 모델 훈련

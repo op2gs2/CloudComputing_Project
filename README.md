@@ -7,7 +7,7 @@ SageMaker 는 인공지능을 코딩하고 배포할 수 있는 환경이 구성
 두번째로, Tensorflow와 Pytorch 샘플코드를 테스트 하였습니다. 
 마지막으로, 마켓플레이스에 있는 알고리즘을 이용하여 모델을 추출하는 테스트를 수행하였습니다.
 
-- 우건희: 저는 Amazon SageMaker 의 모델의 소개, 기능들을 조사하는 역할을 수행하였습니다. 
+- 우건희: Amazon SageMaker의 기능들을 조사/소개하는 역할을 수행하였습니다. 
 현재 Amazon SageMaker 개발자 안내서와 국내외 인터넷 자료들을 참고하여 조사를 완료하였습니다. 
 특히나, SageMaker, Autopilot, GroundTruth, Built-in Algorithms, Amazon Augmented AI 등을 중점적으로 조사하였습니다. 
 
@@ -45,7 +45,10 @@ Amazon SageMaker는 가장 포괄적인 ML/DL 서비스입니다. 데이터처�
 
 ### 다양한 라이브러리 샘플코드를 실행
 
-<b> TODO: 작성 필요 </b>
+- Tensorflow 실행 결과
+![Tensorflow 실행 결과](https://github.com/op2gs2/CloudComputing_Project/blob/main/img/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC_%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%8B%A4%ED%97%98.jpg?raw=true)
+- Pytorch 실행 결과
+![Pytorch 실행 결과](https://github.com/op2gs2/CloudComputing_Project/blob/main/img/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%20%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC_%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%8B%A4%ED%97%98.jpg?raw=true)
 
 ### 마켓플레이스 알고리즘을 이용한 모델 훈련
 

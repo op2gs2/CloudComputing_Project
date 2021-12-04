@@ -56,8 +56,17 @@ Amazon SageMaker는 가장 포괄적인 ML/DL 서비스입니다. 데이터처�
 ![Pytorch 실행 결과](https://github.com/op2gs2/CloudComputing_Project/blob/main/img/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%20%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC_%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%8B%A4%ED%97%98.jpg?raw=true)
 
 ### 마켓플레이스 알고리즘을 이용한 모델 훈련
+- 훈련 작업 세부사항 페이지
 
-<b> TODO: 작성 필요 </b>
+![훈련 작업 세부사항 페이지](https://github.com/op2gs2/CloudComputing_Project/blob/main/img/%ED%9B%88%EB%A0%A8%EC%9E%91%EC%97%85%EC%99%84%EB%A3%8C%EC%84%B8%EB%B6%80%EC%82%AC%ED%95%AD_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%ED%97%98.jpg?raw=true)
+
+- 실행 Log
+
+![실행 Log](https://github.com/op2gs2/CloudComputing_Project/blob/main/img/%ED%9B%88%EB%A0%A8%EC%83%81%ED%83%9C%EA%B8%B0%EB%A1%9D_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%ED%97%98.jpg?raw=true)
+
+- 실행결과 및 출력파일([autoencoder-model.h5](https://github.com/op2gs2/CloudComputing_Project/blob/main/src/autoencoder-model.h5?raw=true))
+
+![실행결과 및 출력파일](https://github.com/op2gs2/CloudComputing_Project/blob/main/img/h5%ED%8C%8C%EC%9D%BC%EB%82%B4%EC%9A%A9_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%A4%ED%97%98.jpg?raw=true)
 
 ## 개발 결과물의 필요성 및 활용 방안
 

@@ -13,7 +13,13 @@ SageMaker 는 인공지능을 코딩하고 배포할 수 있는 환경이 구성
 
 ## 프로젝트 소개 및 개발 내용 소개
 
-<b> TODO: 작성 필요 </b>
+Amazon SageMaker는 가장 포괄적인 ML/DL 서비스입니다. 데이터처리/개발/훈련/배포를 위한 통합적인 기능을 제공하며, IDE인 Amazon SageMaker를 제공하고 있습니다. SageMaker는 Jupyter Notebook, Tensorflow, Pytorch 등. ML/DL개발에 필요한 라이브러리와 환경을 제공합니다. 주요기능으로는 데이터 수집도구인 Amazon SageMaker Data Wrangler, Feature를 저장/관리하는 관리형 서비스인 Amazon SageMaker Feature Store, 통합 개발 도구인 Amazon SageMaker Studio, Jupyter Notebook / Jupyter Lab 기능을 제공하는 노트북 인스턴스, 알고리즘, 모델, 데이터셋을 구독할 수 있는 Marketplace등 다양한 기능이 있습니다.
+
+저희는 Amazon Sagemaker를 소개하고, 이 도구를 이용해 몇가지 테스트를 진행하였습니다.
+진행한 테스트는 다음과 같습니다:
+- 다양한 노트북 인스턴스에서의 실행시간 비교
+- 다양한 라이브러리 샘플코드를 실행
+- 마켓플레이스 알고리즘을 이용한 모델 훈련
 
 ## 테스트에 사용된 코드 소개
 
@@ -29,7 +35,7 @@ SageMaker 는 인공지능을 코딩하고 배포할 수 있는 환경이 구성
 
 ## 테스트 결과 소개
 
-### 다양한 인스턴스에서의 실행시간 비교
+### 다양한 노트북 인스턴스에서의 실행시간 비교
 
 <b> TODO: 작성 필요 </b>
 
